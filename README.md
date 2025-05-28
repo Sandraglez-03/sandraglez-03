@@ -1,16 +1,23 @@
-## Hi there 👋
+## HOLA MI NOMBRE ES SANDRA 
 
-<!--
-**Sandraglez-03/sandraglez-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Soy estudiantes del cifp cesar manriquez , me gusta el baloncesto 
 
-Here are some ideas to get you started:
+´´´holaa
+´´´
+lista:
+- elemento 1
+- elemento 2
+  - sub-elemento
+  - sub-elemento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ lista numerada 
+ 1 primer paso 
+ 2 segundo paso 
+
+ - ( ) hola
+ - ( ) hola
+
+<!--HOLA--> codigo /comentario no visible.
+
+
+> Incripcion de imagen
