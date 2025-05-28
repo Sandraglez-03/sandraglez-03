@@ -16,10 +16,13 @@ lista:
  1 primer paso 
  2 segundo paso 
 
- - ( ) hola
- - ( ) hola
+ - [ ] hola
+ - [ ] hola
 
 <!--HOLA--> codigo /comentario no visible.
 
 
 > Incripcion de imagen
+
+![Captura de pantalla](https://github.com/Sandraglez-03/sandraglez-03/blob/main/image.png)
+[video de youtube](https://youtu.be/Er4oqBGuhkw?si=6lrGrgAA0Z-REyqy)
