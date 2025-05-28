@@ -1,6 +1,8 @@
 ## HOLA MI NOMBRE ES SANDRA 
 
-*Soy estudiantes del cifp cesar manriquez , me gusta el baloncesto 
+**Soy estudiantes del cifp cesar manriquez , me gusta el baloncesto**
+
+
 
 ´´´ holaa
 ´´´
@@ -24,5 +26,7 @@ lista:
 
 > Incripcion de imagen
 
-![Captura de pantalla](https://github.com/Sandraglez-03/sandraglez-03/blob/main/image.png)
-[video de youtube](https://youtu.be/Er4oqBGuhkw?si=6lrGrgAA0Z-REyqy)
+![foto de deporte](https://images.app.goo.gl/JSLjSKPt49bmYKD86)
+
+
+[video de youtube](https://youtu.be/26RIzBl0gPQ?si=pv93TEh2yhkVX-6q)
