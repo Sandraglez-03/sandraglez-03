@@ -1,32 +1,14 @@
 ## HOLA MI NOMBRE ES SANDRA 
 
-**Soy estudiantes del cifp cesar manriquez , me gusta el baloncesto**
+**Soy estudiante del *CIFP* Cesar Manriquez , me gusta el baloncesto**
+
+> Estoy estudiando Ciclo Medio de Comunicación Microsistemas y redes
 
 
+<img width='300px' src='https://github.com/Sandraglez-03/sandraglez-03/blob/main/tiro-libre-en-baloncesto.jpg' />  
 
-´´´ holaa
-´´´
+En un futuro me gustaría dedicarme a:
 
-
-lista:
-- elemento 1
-- elemento 2
-  - sub-elemento
-  - sub-elemento
-
- lista numerada 
- 1 primer paso 
- 2 segundo paso 
-
- - [ ] hola
- - [ ] hola
-
-<!--HOLA--> codigo /comentario no visible.
-
-
-> Incripcion de imagen
-
-![foto de deporte](https://images.app.goo.gl/JSLjSKPt49bmYKD86)
-
-
-[video de youtube](https://youtu.be/26RIzBl0gPQ?si=pv93TEh2yhkVX-6q)
+- Técnico de Informática
+- Gestor de nube
+  - Azure
